@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 let fs = require('fs');
 const arguments = process.argv.slice(2)
 if(arguments.length ===6){
