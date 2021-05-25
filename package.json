@@ -1,6 +1,6 @@
 {
   "name": "project-maker",
-  "version": "1.0.0",
+  "version": "0.1.3",
   "description": "test to creatd automated fronted ui",
   "main": "init.js",
   "dependencies": {
