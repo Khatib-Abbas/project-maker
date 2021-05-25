@@ -6,7 +6,7 @@ if(arguments.length ===6){
     // if if --generator and project type next and --resource (create specific resource --resource)
     if(arguments[2] ==='--generator' && arguments[3] ==='next' && arguments[4] ==='--resource'){
         // directory to check if exists
-        const dir = './src';
+        const dir = '././src';
         // check if directory exists
         if (fs.existsSync(dir)) {
             console.log('Directory exists!');
